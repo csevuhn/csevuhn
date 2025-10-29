@@ -19,7 +19,7 @@
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dracula&hide=html,css,scss,markdown)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=csevuhn&layout=compact&theme=dracula&hide=html,css,scss,markdown)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
@@ -27,9 +27,9 @@
 
 <div align="center">
 
-| **bitcoin** | [![Bitcoin](https://img.shields.io/badge/Bitcoin-BTC-yellow?style=for-the-badge&logo=bitcoin)](bitcoin:bc1qf6hjyw6pkf2a97rcwn3xrpzjl9w6pn076phfgx) | [bc1qf6hjyw6pkf2a97rcwn3xrpzjl9w6pn076phfgx](bitcoin:bc1qf6hjyw6pkf2a97rcwn3xrpzjl9w6pn076phfgx) |
+| **bitcoin** || [bc1qf6hjyw6pkf2a97rcwn3xrpzjl9w6pn076phfgx](bitcoin:bc1qf6hjyw6pkf2a97rcwn3xrpzjl9w6pn076phfgx) |
 |-------------|------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------|
-| **monero**  | [![Monero](https://img.shields.io/badge/Monero-XMR-orange?style=for-the-badge&logo=monero)](monero:498nePfGjhoPaq61a8LcFNivB5x5mUs5y4FKD5BJ3a5TTg8uNHiMcsECzGJHPVxeA9jfq3MvAz66JYecSu92ZCyH5dFbu5t) | [498nePfGjhoPaq61a8LcFNivB5x5mUs5y4FKD5BJ3a5TTg8uNHiMcsECzGJHPVxeA9jfq3MvAz66JYecSu92ZCyH5dFbu5t](monero:498nePfGjhoPaq61a8LcFNivB5x5mUs5y4FKD5BJ3a5TTg8uNHiMcsECzGJHPVxeA9jfq3MvAz66JYecSu92ZCyH5dFbu5t) |
+| **monero**  || [498nePfGjhoPaq61a8LcFNivB5x5mUs5y4FKD5BJ3a5TTg8uNHiMcsECzGJHPVxeA9jfq3MvAz66JYecSu92ZCyH5dFbu5t](monero:498nePfGjhoPaq61a8LcFNivB5x5mUs5y4FKD5BJ3a5TTg8uNHiMcsECzGJHPVxeA9jfq3MvAz66JYecSu92ZCyH5dFbu5t) |
 
 </div>
 
