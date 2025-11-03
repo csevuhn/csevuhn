@@ -19,7 +19,7 @@
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=csevuhn&layout=compact&theme=dracula&hide=html,css,scss,markdown)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=csevuhn&layout=compact&theme=dracula&hide=markdown)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
